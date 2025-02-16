@@ -3,7 +3,7 @@ const dgram = require('dgram');
 const os = require('os');
 
 const AUTHOR = "Minearm-RPM";
-const GITHUB = "https://github.com/Minearm-RPM/Hacker/";
+const GITHUB = "https://github.com/Minearm-Lab/Hacker/";
 
 if (isMainThread) {
 
